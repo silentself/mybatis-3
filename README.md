@@ -1,6 +1,9 @@
 # mybatis-3
 
 mybatis-3.5.1源码学习+注释
+学习mybatis源码将mybatis源码从GitHub上clone下来之后,
+首先需要先将pom文件中所有的
+<optional>true</optional>改为<optional>false</optional>
 
 MyBatis SQL Mapper Framework for Java
 =====================================
